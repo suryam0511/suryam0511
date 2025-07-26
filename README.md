@@ -1,4 +1,4 @@
-- 👋 HELLO, Myself @Surya0511, currently Cloud Engineer exploring DevOps. #TechEnthusiast #Techie!
+- 👋 HELLO, @Suryam0511 here! #TechEnthusiast #Techie #Humane
 
 ---------------------------------------------------------------------------------------------------
        
