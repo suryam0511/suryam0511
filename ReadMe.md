@@ -5,6 +5,8 @@
 # 💫 About Me:
 👋 HELLO, @Suryam0511 here! #TechEnthusiast #Techie #Humane<br>🌱 I’m currently into ... Code and Commit to improve CI/CD<br>💞️ Lets collaborate on ... Cloud and Devops Engineering Technologies<br>👀 Interested in ... Developing Valuable Projects to Mankind, all liable with Humankind.<br>📫 How to reach me ... linktr.ee/surya0511 | insta : suryaprakashm_0511, Ring: +91 9168188997
 
+![smiling-developer-working-on-code-on-a-laptop-and-computer-vector](https://github.com/user-attachments/assets/a43fb2ab-c135-4472-ad75-d3273671fa69)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryaprakashm_0511) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suryaprakash0511/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@suryaprakashm0511) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaprakashm0511@gmail.com) 
